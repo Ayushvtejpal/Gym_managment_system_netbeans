@@ -1,0 +1,7 @@
+step 1> Java(Jdk) must be installed in your computer
+step 2>Download "Gym Managment sytem.zip" file 
+step 3>Extract the downloaded folder
+step 4>Create the database
+step 5>Open it in netbeans
+step 6>Edit the "dbcon.java" file with the database name and password
+step 6>Run
